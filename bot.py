@@ -22,3 +22,5 @@ for item in resposta['result']:
 #Dois problemas:
 #   O bot responde todas as mensagens que estão no chat
 #   Necessidade de ficar executando o bot toda hora
+
+#https://www.youtube.com/watch?v=-s58ABCv6J4&ab_channel=C%C3%B3digoEscola
